@@ -38,6 +38,6 @@ Criar um app que simula uma Pokedex.
 
 ### Como você deve nos enviar o desafio?
 - É de caráter obrigatório o registro de horas para análise (você pode usar softwares como https://getharvest.com, https://clockify.me/, etc).
-- Você deve enviar o desafio para `dev-team@mobixtec.com` com título `Processo Seletivo Mobix - Fase 2 - Desafio Técnico - SeuNome`.
+- Você deve enviar o desafio para `rh@moodar.com.br` com título `Processo Seletivo Moodar - Fase 2 - Desafio Técnico - SeuNome`.
 - Gere uma versão online, de maneira que possamos abrir o aplicativo e não ter problemas de build.
 - Detalhe toda a sua experiência, informando os pontos de desafio que você achou mais legal.
