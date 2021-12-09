@@ -1,4 +1,4 @@
-# Desafio Front End Mobile
+# Fase 2 - Desafio Front End Mobile
 
 O desafio tem como objetivo avaliar a pessoa candidata nas experiências: 
 * Criação de layouts
