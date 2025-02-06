@@ -26,18 +26,17 @@ API
 
 FRONT
 
--   Link para o Figma https://www.figma.com/file/943D2Dx1H3uEVBMast3hzt/Teste-Pokemon?node-id=0%3A1
 -   Realizar login, validando email e senha com back Django Rest.
 -   Manter o usuário logado no app após o login.
 -   Scroll Infinito.
 -   Armazene os dados que você achar mais importante para execução do app.
+OBS: Vamos utilizar a IMAGEM acima como design
 
 ## Requisitos
 
 ### Obrigatório
 
 -   TypeScript
--   Utilizar react navigation
 -   Uso de containers Docker pra levantar tanto API quanto Front
 
 ### Opcionais:
